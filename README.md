@@ -38,7 +38,8 @@ na pasta Target
 
 > path: target/site/jacoco/index.html
 
-
+### Autor
+Este projeto foi Desenvolvido por [Yuri Mathaus](https://github.com/yurimcf).
 
 
 
